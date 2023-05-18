@@ -1,2 +1,2 @@
 # Pet-projects
-Pet-projects in data science
+Здесь будут собраны пет-проекты в области data science
