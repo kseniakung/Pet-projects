@@ -4,7 +4,9 @@
 Данный проект совмещает обученную нейросеть для определения птицы по фото и код телеграмм-бота.
 Протестировать проект можно, перейдя по ссылке в телеграмме: https://t.me/BirdsEatingBot
 
-Модель обучена в google.colab на GPU, на датасете с фотографиями птиц, скачанном с kaggle.com : https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+Модель обучена в google.colab на GPU, на датасете с фотографиями птиц, взятом с kaggle.com : https://www.kaggle.com/datasets/gpiosenka/100-bird-species.
+
+Архив с моделью необходимо скачать по ссылке https://drive.google.com/file/d/1kbqNGmtqEK7qDHmTQLzZgSnAEYrwEEgA/view?usp=sharing, затем разархивировать в директории birds_bot/
 Ноутбук с моделью находится  в папке 'birds/train_model/'
 
 В данный момент проект дорабатывается: часть видов птиц не переведена на русский, модель их определяет, но выдает лишь английское название.
